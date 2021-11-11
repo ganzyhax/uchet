@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57035491351",
+    "project_id": "uchet-f01e6",
+    "storage_bucket": "uchet-f01e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57035491351:android:ee838c4ac8622ee5d8b452",
+        "android_client_info": {
+          "package_name": "com.sdu.uchet.uchet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57035491351-9om2aqo3md1hfn3tus7oithm4315sg0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdu.uchet.uchet",
+            "certificate_hash": "f8c36d8209593dbedf99f360a195445f15e4ff16"
+          }
+        },
+        {
+          "client_id": "57035491351-8so43qa71k00vqkia1hfnin9fgpuv0ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTEYuavVaZqWgcuCf7L-qZmKV0hIPB8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57035491351-8so43qa71k00vqkia1hfnin9fgpuv0ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

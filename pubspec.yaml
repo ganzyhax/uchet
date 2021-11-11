@@ -1,0 +1,39 @@
+name: uchet
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  # https://pub.dev/packages/firebase_core
+  firebase_core: ^1.6.0
+
+  # https://pub.dev/packages/cloud_firestore
+  cloud_firestore: ^2.5.3
+  # https://pub.dev/packages/file_picker
+  file_picker: ^4.1.1
+  # https://pub.dev/packages/hive
+  hive: ^2.0.4
+  hive_flutter: ^1.1.0
+  syncfusion_flutter_xlsio: ^19.1.64-beta
+  path_provider: ^2.0.1
+  open_file: ^3.2.1
+  universal_html: ^2.0.8
+  connectivity: ^3.0.6
+  intl: ^0.17.0
+dev_dependencies:
+  build_runner: ^1.12.2
+  hive_generator: ^1.0.1
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
